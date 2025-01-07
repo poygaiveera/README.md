@@ -26,7 +26,7 @@
    - **Key Features**:  
      - Real-time car availability updates.  
      - Advanced search and filter options.  
-   - **Technologies Used**: React.js, CSS3, REST APIs.
+   - **Technologies Used**: React.js, CSS, HTML, REST APIs.
   
 ### 🌱 Currently Learning
 - **Advanced React.js**: Enhancing skills in state management with **Redux** and building highly interactive UIs.
